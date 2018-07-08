@@ -1,0 +1,7 @@
+server:
+     port: 8084
+
+# LOGGING
+logging:
+    path: /logs
+    file: prod.log
